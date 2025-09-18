@@ -1,0 +1,1 @@
+Put custom static files here (CSS/JS/images) if needed.
