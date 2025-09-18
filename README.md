@@ -30,3 +30,12 @@
 ## Notes
 - SECRET_KEY in settings.py should be changed for production.
 - DEBUG is True for development.
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/0d1a51c2-2228-4e65-9a4b-9c033105b491" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/c5bab758-d1a5-4ce7-b358-c81edd707998" />
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/0d5fd709-0de7-4fc4-bfd2-0648ed7a65eb" /><img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/8aac65a1-4595-43f6-a8af-8a87a840829e" />
+
+
